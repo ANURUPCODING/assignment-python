@@ -1,0 +1,5 @@
+a=int(input("EnterA: "))
+b=int(input("EnterB: "))
+print("after swapping:")
+print(f"A= {b}")
+print(f"B= {a}")
